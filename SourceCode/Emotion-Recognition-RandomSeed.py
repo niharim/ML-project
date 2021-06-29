@@ -1,5 +1,5 @@
 """
-@author: Danyal
+@author: Nihari
 
 The following code classifies piece of music as one of 
 the four emotions mentioned in the document
